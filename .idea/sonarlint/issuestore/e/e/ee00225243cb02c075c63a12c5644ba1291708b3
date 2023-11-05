@@ -1,0 +1,11 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò§¸ˆ8Øç€º1
+Q
+java:S1066G"/Merge this if statement with the enclosing one.(ÕÊÙËüÿÿÿÿ8äÙ‘º1
+B
+java:S1948"%Make "students" private or transient.(ò§¸ˆ8™Øç€º1
+j
+java:S6201G"HReplace this instanceof check and cast with 'instanceof Integer integer'(ÕÊÙËüÿÿÿÿ8õÙ‘º1
+J
+java:S1185S"(Remove this method to simply inherit it.(ƒÀÂøÿÿÿÿ8Ó´º1
