@@ -1,9 +1,11 @@
 
-l
-java:S2095e"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¢é¬8ïÖÍ‚º1
+J
+java:S1604C"(Make this anonymous inner class a lambda(¤ış¾üÿÿÿÿ8ı¶ˆƒº1
 r
-java:S2095q"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(Ğ©Î‘ÿÿÿÿÿ8ğÖÍ‚º1
+java:S2095z"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(Ğ©Î‘ÿÿÿÿÿ8Œ·ˆƒº1
+l
+java:S2095n"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¢é¬8Œ·ˆƒº1
 T
-java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘8…×Í‚º1
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘8¢·ˆƒº1
 W
-java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8…×Í‚º1
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8¢·ˆƒº1

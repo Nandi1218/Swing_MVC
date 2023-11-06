@@ -79,9 +79,5 @@ public class StudentData extends AbstractTableModel {
         fireTableRowsInserted(students.size() - 1, students.size() - 1);
     }
 
-    @Override
-    public void fireTableRowsInserted(int firstRow, int lastRow) {
-        super.fireTableRowsInserted(firstRow, lastRow);
-    }
 
 }
